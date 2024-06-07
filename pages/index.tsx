@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactForm from './contactForm'
+import ContactForm from '../components/contactForm'
 
 const HomePage = () => {
   return (
